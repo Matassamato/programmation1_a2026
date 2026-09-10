@@ -18,6 +18,8 @@
 - Si l'âge est de 18 ans ou plus, affiche : *"Majeur"*.
 - Sinon, affiche : *"Mineur"*.
 
+
+
 ## 🟡 Exercice 3 : Moyen
 
 **But** : Valider la longueur d'un mot de passe.
