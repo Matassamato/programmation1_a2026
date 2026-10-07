@@ -20,12 +20,20 @@
 - [2.5 — Opérateurs d'assignation](./Cours%2002/2.5%20-%20Opérateurs%20d'assignation.md)
 - [2.6 — Lire une erreur de syntaxe](./Cours%2002/2.6%20-%20Lire%20une%20erreur%20de%20syntaxe.md)
 
+Exercices :
+
+- [Exercices du Cours 02](./Cours%2002/Exercices/README.md) — classés par niveau, avec [corrigés](./Cours%2002/Exercices/Corrige/README.md)
+
 ## Cours 03 — Entrées, sorties et opérateurs logiques
 
 - [3.1 — Entrées en console](./Cours%2003/3.1%20-%20Entrées%20en%20console.md)
 - [3.2 — Sorties en console](./Cours%2003/3.2%20-%20Sorties%20en%20console.md)
 - [3.3 — Sorties en console - formatage avancé](./Cours%2003/3.3%20-%20Sorties%20en%20console%20-%20formatage%20avancé.md)
 - [3.4 — Opérateurs relationnels et logiques](./Cours%2003/3.4%20-%20Opérateurs%20relationnels%20et%20logiques.md)
+
+Exercices :
+
+- [Exercices du Cours 03](./Cours%2003/Exercices/Exercices_Cours_03_1.md) — classés par niveau, avec [corrigés](./Cours%2003/Exercices/Réponses_Cours_03_1.md)
 
 ## Cours 04 — Structures conditionnelles
 
@@ -35,10 +43,38 @@
 - [4.4 — L'opérateur ternaire](./Cours%2004/4.4%20-%20L'opérateur%20ternaire.md)
 - [4.5 — Erreurs et bonnes pratiques](./Cours%2004/4.5%20-%20Erreurs%20et%20bonnes%20pratiques.md)
 
+Exercices :
+
+- [Exercices et solutions du Cours 04](./Cours%2004/Exercices/) — fichiers séparés par section.
+
+## Cours 05 — Structures itératives `while` et validation de données
+
+- [5.1 — La boucle while](./Cours%2005/5.1%20-%20La%20boucle%20while.md)
+- [5.2 — La gestion des erreurs](./Cours%2005/5.2%20-%20La%20gestion%20des%20erreurs.md)
+- [5.3 — La validation de données](./Cours%2005/5.3%20-%20La%20validation%20de%20données.md)
+
+Exercices :
+
+- [Exercices et solutions du Cours 05](./Cours%2005/Exercices/) — fichiers séparés par section.
+
+## Cours 06 — Structures itératives `for` et listes
+
+- [6.1 — La boucle for](./Cours%2006/6.1%20-%20La%20boucle%20for.md)
+- [6.2 — Les listes](./Cours%2006/6.2%20-%20Les%20listes.md)
+- [6.3 — Les boucles for imbriquées et les listes 2D](./Cours%2006/6.3%20-%20Les%20boucles%20for%20imbriquées.md)
+
+Exercices :
+
+- [Exercices et solutions du Cours 06](./Cours%2006/Exercices/) — fichiers séparés par section.
+
 ## Outils / Références
 
-- [Raccourcis VS Code](./Outils/Raccourcis%20VS%20Code.md)
+- [Couleurs - Module colorama](./Outils/Couleurs%20-%20Module%20colorama.md)
+- [Date et heure - Module datetime](./Outils/Date%20et%20heure%20-%20Module%20datetime.md)
 - [Manipulations de chaînes](./Outils/Manipulations%20de%20chaînes.md)
+- [Module math](./Outils/Module%20math.md)
+- [Nombres aléatoires - Module random](./Outils/Nombres%20aléatoires%20-%20Module%20random.md)
+- [Raccourcis VS Code](./Outils/Raccourcis%20VS%20Code.md)
 
 ---
 
